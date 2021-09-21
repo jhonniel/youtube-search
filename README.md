@@ -1,1 +1,1 @@
-This is a fork of https://github.com/StephenGrider/ReduxSimpleStarter
+This is a fork of https://github.com/jhonniel
